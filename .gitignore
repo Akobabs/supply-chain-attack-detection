@@ -2,7 +2,11 @@ venv/
 __pycache__/
 *.pyc
 .env
-data/*
 models/*
 *.ipynb_checkpoints/
-data/
+*.zip
+*.csv
+*.json
+*.pkl
+*.h5
+
