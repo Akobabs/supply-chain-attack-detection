@@ -1,0 +1,8 @@
+2025-05-07 14:53:23,220 - ERROR - Error loading data: [Errno 2] No such file or directory: 'unsw_nb15_preprocessed.csv'
+2025-05-07 14:53:23,220 - ERROR - Training failed: [Errno 2] No such file or directory: 'unsw_nb15_preprocessed.csv'
+2025-05-07 14:53:23,231 - ERROR - Error loading data: [Errno 2] No such file or directory: 'unsw_nb15_preprocessed.csv'
+2025-05-07 14:53:23,231 - ERROR - Training failed: [Errno 2] No such file or directory: 'unsw_nb15_preprocessed.csv'
+2025-05-07 14:54:50,421 - INFO - Loaded preprocessed data: (4437528, 20)
+2025-05-07 14:54:54,335 - INFO - Train set: (3550022, 19), Test set: (887506, 19)
+2025-05-07 15:37:51,891 - INFO - Supervised Model - Accuracy: 1.00, F1-Score: 1.00, FPR: 0.00
+2025-05-07 15:42:29,263 - INFO - Unsupervised model trained and anomaly plot saved
